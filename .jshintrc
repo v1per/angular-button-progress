@@ -1,0 +1,14 @@
+{
+  "node": true,
+  "unused": true,
+  "undef": true,
+  "globals": {
+    "angular": true,
+    "describe": true,
+    "it": true,
+    "beforeEach": true,
+    "expect": true,
+    "inject": true,
+    "sinon": true
+  }
+}
