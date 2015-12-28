@@ -15,3 +15,7 @@ angular
     require('button-progress')
   ])
 ```
+
+```html
+<button ng-click="vm.deleteNote(vm.note)" type="button" button-progress class="btn btn-danger">Yes</button>
+```
