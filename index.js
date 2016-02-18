@@ -12,6 +12,8 @@
   }
 
   function buttonProgress($parse) {
+    "ngInject";
+
     var clickFn;
 
     return {
